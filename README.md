@@ -41,6 +41,10 @@ go to rescue mode
  --------------------------------------------------------
  
  go to sigle user mode 
+
+ boot with previous kernel
+ login to vm then unistall latest kernel and then reinstall the kernel.
+ reboot 
  boot with previous kernel
  login to vm then unistall latest kernel and then reinstall the kernel.
  reboot 
